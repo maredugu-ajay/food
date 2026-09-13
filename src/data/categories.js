@@ -1,0 +1,51 @@
+export const categories = [
+  {
+    id: 'all',
+    name: 'All Items',
+    emoji: '🍽️',
+    iconImage: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=300&q=80',
+    description: 'Explore our full menu',
+  },
+  {
+    id: 'pizza',
+    name: 'Pizza',
+    emoji: '🍕',
+    iconImage: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=300&q=80',
+    description: 'Artisan hand-tossed & wood-fired pizzas',
+  },
+  {
+    id: 'burgers',
+    name: 'Burgers',
+    emoji: '🍔',
+    iconImage: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=300&q=80',
+    description: 'Juicy smashed burgers & artisan brioche',
+  },
+  {
+    id: 'fast-food',
+    name: 'Fast Food',
+    emoji: '🍟',
+    iconImage: 'https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&w=300&q=80',
+    description: 'Crispy wings, fries, wraps & finger food',
+  },
+  {
+    id: 'healthy-meals',
+    name: 'Healthy Meals',
+    emoji: '🥗',
+    iconImage: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=300&q=80',
+    description: 'Nutritious power bowls, fresh salads & proteins',
+  },
+  {
+    id: 'desserts',
+    name: 'Desserts',
+    emoji: '🍰',
+    iconImage: 'https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=300&q=80',
+    description: 'Decadent cakes, warm pastries & artisanal gelatos',
+  },
+  {
+    id: 'beverages',
+    name: 'Beverages',
+    emoji: '🥤',
+    iconImage: 'https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=300&q=80',
+    description: 'Fresh pressed juices, craft sodas & iced coffees',
+  },
+];
